@@ -1,0 +1,4 @@
+# uncomment to upload movie images
+google-generativeai
+streamlit
+python-dotenv
