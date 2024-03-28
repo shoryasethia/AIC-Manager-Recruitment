@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import pandas as pd
-from scipy import sparse
+from scipy import sparse 
 import streamlit as st
 import google.generativeai as genai
 import os
